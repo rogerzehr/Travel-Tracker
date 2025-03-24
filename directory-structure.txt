@@ -1,0 +1,10 @@
+travel-mapper/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   ├── app.js
+│   └── countries.js
+├── img/
+│   └── screenshot.jpg (placeholder for app screenshot)
+└── README.md
